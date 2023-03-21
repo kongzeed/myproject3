@@ -16,6 +16,7 @@ public class MyProject3 {
     public static void main(String[] args) {
         System.out.println("HellonWorld!");
         System.out.println("Hello java");
+        System.out.println("Hello Programminga");
     }
     
 }
